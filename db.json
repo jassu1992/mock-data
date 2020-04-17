@@ -27,20 +27,8 @@
     "assigned_to_name": "Jaswant",
     "assigned_to_id": 234,
     "overdue_time": 34
-  },{
-    "task_name": "eway",
-    "entity_id": 1234,
-    "customer_name": "Y M Jagdeesh",
-    "assigned_to_name": "Jaswant",
-    "assigned_to_id": 234,
-    "overdue_time": 34
   }],
   "unassigned": [{
-    "task_name": "Weigh Slip",
-    "entity_id": 1234,
-    "customer_name": "Y M Jagdeesh",
-    "unassigned_since": 34
-  },{
     "task_name": "Weigh Slip",
     "entity_id": 1234,
     "customer_name": "Y M Jagdeesh",
