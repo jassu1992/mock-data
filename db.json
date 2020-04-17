@@ -20,20 +20,8 @@
     "assigned_to_name": "Jaswant",
     "assigned_to_id": 234,
     "overdue_time": 34
-  },{
-    "task_name": "eway",
-    "entity_id": 1234,
-    "customer_name": "Y M Jagdeesh",
-    "assigned_to_name": "Jaswant",
-    "assigned_to_id": 234,
-    "overdue_time": 34
   }],
   "unassigned": [{
-    "task_name": "Weigh Slip",
-    "entity_id": 1234,
-    "customer_name": "Y M Jagdeesh",
-    "unassigned_since": 34
-  },{
     "task_name": "Weigh Slip",
     "entity_id": 1234,
     "customer_name": "Y M Jagdeesh",
@@ -53,11 +41,6 @@
     "user_id" : 1234,
     "user_name" : "Jaswant",
     "user_email" : "jaswant.dakad@blackbuck.com",
-    "logged_in_days": 80,
-  },{
-    "user_id" : 1234,
-    "user_name" : "Madan",
-    "user_email" : "madan@blackbuck.com",
     "logged_in_days": 80,
   }]
 }
